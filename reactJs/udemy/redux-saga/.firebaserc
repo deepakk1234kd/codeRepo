@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "react-burger",
+    "burger-app": "react-burger-app-deepak"
+  }
+}
